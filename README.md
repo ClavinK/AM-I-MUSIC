@@ -86,3 +86,7 @@ That's great! The Music Genre Classification project is a fun and educational wa
 - **Scikit-learn Documentation**: [Scikit-learn](https://scikit-learn.org/stable/)
 
 By following these steps, you should be well on your way to creating a successful music genre classification project. Good luck!
+
+
+Some other resources for machine learning:
+https://www.youtube.com/watch?v=szyGiObZymo --> Video Series starts here and continues
