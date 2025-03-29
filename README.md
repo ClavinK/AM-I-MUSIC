@@ -90,3 +90,6 @@ By following these steps, you should be well on your way to creating a successfu
 
 Some other resources for machine learning:
 https://www.youtube.com/watch?v=szyGiObZymo --> Video Series starts here and continues
+
+Understanding what MFCCs are:
+https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779
