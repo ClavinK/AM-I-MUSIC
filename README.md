@@ -6,10 +6,12 @@
 - **Librosa Documentation**: [Librosa](https://librosa.org/doc/latest/index.html)
 - **Scikit-learn Documentation**: [Scikit-learn](https://scikit-learn.org/stable/)
 
-By following these steps, you should be well on your way to creating a successful music genre classification project. Good luck!
+Credit to the original author: 
+Part 1:
+https://medium.com/@namratadutt2/music-genre-classification-using-cnn-part-1-feature-extraction-b417547b8981
 
-Some other resources for machine learning:
-https://www.youtube.com/watch?v=szyGiObZymo --> Video Series starts here and continues
+Part 2:
+https://medium.com/@namratadutt2/music-genre-classification-using-cnn-part-2-classification-ee5400cfbc4f
 
-Understanding what MFCCs are:
-https://medium.com/@derutycsl/intuitive-understanding-of-mfccs-836d36a1f779
+To use this project, first run the feature extraction file with the GTZAN dataset.
+Once the npz file is obtained, train the models with the npz file in the actual music genre classification file using Convolutional Neural Networks
